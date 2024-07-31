@@ -1,0 +1,50 @@
+{
+  "title": "5pairs/Pack Men's Trendy Striped Mid-Calf Socks",
+  "description": "{\"Color: \":\"Multicolor \",\"Gender: \":\"Men \",\"Composition: \":\"80% Polyester, 20% Spandex \",\"Material: \":\"Fabric \",\"Pattern Type: \":\"Colorblock, Plain, Striped \"}",
+  "options": [{ "name": "Size", "values": ["39-42", "40-43", "43-46"] }],
+  "variants": [
+    {
+      "title": "39-42",
+      "sku": "",
+      "price": 5,
+      "compare_at_price": 0,
+      "option1": null,
+      "option2": "39-42",
+      "option3": null,
+      "imageSrc": "//img.ltwebstatic.com/images3_spmp/2024/02/14/cb/1707889193de69652e81180d7333c432fcb94dd675_thumbnail_336x.webp"
+    },
+    {
+      "title": "40-43",
+      "sku": "",
+      "price": 5,
+      "compare_at_price": 0,
+      "option1": null,
+      "option2": "40-43",
+      "option3": null,
+      "imageSrc": "//img.ltwebstatic.com/images3_spmp/2024/02/14/cb/1707889193de69652e81180d7333c432fcb94dd675_thumbnail_336x.webp"
+    },
+    {
+      "title": "43-46",
+      "sku": "",
+      "price": 5,
+      "compare_at_price": 0,
+      "option1": null,
+      "option2": "43-46",
+      "option3": null,
+      "imageSrc": "//img.ltwebstatic.com/images3_spmp/2024/02/14/cb/1707889193de69652e81180d7333c432fcb94dd675_thumbnail_336x.webp"
+    }
+  ],
+  "images": [
+    {
+      "id": "1",
+      "src": "https://img.ltwebstatic.com/images3_spmp/2024/02/14/cb/1707889193de69652e81180d7333c432fcb94dd675_thumbnail_220x293.webp"
+    },
+    {
+      "id": "2",
+      "src": "https://img.ltwebstatic.com/images3_spmp/2024/02/14/cb/17078891927afd5a46dce3e65f3f5254ffaedf948f_thumbnail_220x293.webp"
+    }
+  ],
+  "image": {
+    "src": "//img.ltwebstatic.com/images3_spmp/2024/02/14/cb/1707889193de69652e81180d7333c432fcb94dd675_thumbnail_336x.webp"
+  }
+}

@@ -14,3 +14,6 @@
          Comment : Also use optional chaining instead of expecting all the product data to be available
     - [ ] 
 
+
+
+// the website encodes the captcha type in the url 

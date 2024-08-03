@@ -1,4 +1,4 @@
-export type vairant = {
+export type variant = {
   title: string;
   sku: string; // Optional
   price: number;
@@ -12,6 +12,10 @@ export type Image = {
   id: string;
   src: string;
 };
+export type option = {
+  name: string;
+  values: Array<string>;
+}
 
 export type Product = {
   title: string;
@@ -19,7 +23,18 @@ export type Product = {
   sizes: string[];
   images: Array<Image>;
   colors: string[];
-  variants: Array<vairant>;
-  options: Array<any>;
+  variants: Array<variant>;
+  options: Array<option>;
+  otherOptions: Array<string>
   image: { src: string };
 };
+
+
+export type ReturnProductType = {
+  title: string;
+  description: string;
+  options: Array<option>;
+  variants: Array<variant>;
+  images: Array<Image>
+  image: { src: string }
+}
